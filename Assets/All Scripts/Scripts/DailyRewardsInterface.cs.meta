@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: dd55acd727d51e242aea5ec63c2db1ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - dailyRewardPrefab: {instanceID: 0}
+  - panelDebug: {instanceID: 0}
+  - buttonAdvanceDay: {instanceID: 0}
+  - buttonAdvanceHour: {instanceID: 0}
+  - buttonReset: {instanceID: 0}
+  - buttonReloadScene: {instanceID: 0}
+  - panelReward: {instanceID: 0}
+  - textReward: {instanceID: 0}
+  - buttonCloseReward: {instanceID: 0}
+  - imageReward: {instanceID: 0}
+  - buttonClaim: {instanceID: 0}
+  - buttonClose: {instanceID: 0}
+  - buttonCloseWindow: {instanceID: 0}
+  - textTimeDue: {instanceID: 0}
+  - dailyRewardsGroup: {instanceID: 0}
+  - scrollRect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
